@@ -1,0 +1,46 @@
+
+body{
+    
+    font-family: serif;
+}
+#imagen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+  width: 30%;
+  height: 20%;
+}
+img{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lst{
+    display: block;
+    background-color: cyan;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 30%;
+    height: 20%;
+    border: 2px solid magenta;
+    border-radius: 20px;
+    font-size: 20px;
+    color: magenta
+}
+#msg {
+    display: block;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 30%;
+    height: 20%;
+    color: magenta;
+    font-size: 24px;
+    text-align: center;
+    border: 2px solid magenta;
+    border-radius: 20px;
+}
